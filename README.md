@@ -24,3 +24,4 @@ Total Earning 19.529080443481 BTC
  link is here 
  https://a9781f35.usi-tech.info/
  goodluck
+ software licence 1200
